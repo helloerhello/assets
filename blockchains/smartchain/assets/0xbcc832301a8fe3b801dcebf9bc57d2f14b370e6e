@@ -1,0 +1,11 @@
+{
+    "name": "My Dog Token",
+    "type": "BEP20",
+    "symbol": "MDT",
+    "decimals": 9,
+    "website": "https://",
+    "description": "The Next generation Dog Token",
+    "explorer": "https://bscscan.com/token/0xbcc832301a8fe3b801dcebf9bc57d2f14b370e6e",
+    "status": "active",
+    "id": "0xbcc832301a8fe3b801dcebf9bc57d2f14b370e6e "
+}
