@@ -1,0 +1,10 @@
+{
+    "name": "My Dog Token",
+    "type": "BEP20",
+    "symbol": "MDT",
+    "decimals": 9,
+    "description": "Sheep Token is a deflationary token that allows for passive income generation for investors. Here’s how it works. 6% on each transaction is split instantly among token holders and the burn wallet, reducing supply and rewarding holders. The Sheep Token protocol will burn 3% of every transaction forever and redistribute the remaining 3% to token holders as reward. This arrangement eradicates 3rd party risk from having to keep assets in a separate contract while yield farming while reducing supply.",
+    "explorer": "https://bscscan.com/token/0xbcc832301a8fe3b801dcebf9bc57d2f14b370e6e",
+    "status": "active",
+    "id": "0xbcc832301a8fe3b801dcebf9bc57d2f14b370e6e "
+}
